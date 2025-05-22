@@ -6,14 +6,28 @@ Purpose: The purpose of this notebook is to streamline the workflow of updating 
 
 Parameters:
 
-    Title of the basemap you want to replace.
+ItemID of the basemap you want to replace.
 
-    ItemID of the basemap you want to replace it with.
+ItemID of the basemap you want to replace it with.
+
+Select the Basemap Layer type
 
 Authored By: Joe Guzi
 
-Previous Production Date: 7/1/24
+Previous Production Date: 8/14/24
 
-Production Date: 7/18/24
+Production Date: 5/21/25
 
-Note: The previous version of this notebook, was written specifically to replace Esri's Raster basemaps that were being deprecated. It can be downloaded here: https://www.arcgis.com/home/item.html?id=90cc2d7419f947d3ae55b44fd3090b24
+Note:
+
+The previous version of this notebook, was written specifically to replace Esri's Raster basemaps that were being deprecated. It can be downloaded here: https://www.arcgis.com/home/item.html?id=90cc2d7419f947d3ae55b44fd3090b24
+
+8/14/24 --- updated with Audit Template
+
+5/21/25 --- Updated for the ArcGIS Python API version 2.4 update
+
+    Supply the ItemID of the basemap you want to replace
+
+    Supply the ItemID of the basemap you want to replace it with
+
+    Select the Basemap Layer Type
